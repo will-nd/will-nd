@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @will-nd
-- 👀 I’m interested in getting help for assignments :)
+- 👀 I’m interested in sharing my knowledge
 - 🌱 I’m currently learning Computer Science BSc
 - 💞️ I’m looking to collaborate on whatever I can help with
 - 📫 How to reach me will89.wn@googlemail.com
